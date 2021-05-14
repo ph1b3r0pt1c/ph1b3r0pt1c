@@ -7,8 +7,15 @@
                            @Java
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me
-                    Hackerrank: https://www.hackerrank.com/Phiber_Optik
-                    Linkedin  : https://www.linkedin.com/in/vishalmishra7/
+                   
+
+<!---
+ Hackerrank   : https://www.hackerrank.com/Phiber_Optik
+ Github       : https://github.com/ph1b3r0pt1c/ph1b3r0pt1c
+ Linkedin     : https://www.linkedin.com/in/vishalmishra7/
+ Stackoverflow: https://stackoverflow.com/users/9774330/ph1b3r0p1c                  
+--->
+
                    
 
 <!---
